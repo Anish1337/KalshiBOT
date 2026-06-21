@@ -1,2 +1,2 @@
 # KalshiTUI
-A way to backtest prediction markets within the terminal.
+A simple way to backtest prediction markets.
